@@ -1,0 +1,27 @@
+{
+  "name": "curve-compliance",
+  "displayName": "Curve Compliance",
+  "version": "1.0.0",
+  "description": "For Curve Compliance customers: ask Claude about your campaigns, website traffic, goals, forms and consent in Curve, with skills for a weekly report, campaign reviews, goal attribution and tracking checks. Answers are totals and breakdowns, never records about a person.",
+  "author": {
+    "name": "Curve Compliance",
+    "email": "hey@curvecompliance.com",
+    "url": "https://www.curvecompliance.com"
+  },
+  "homepage": "https://www.curvecompliance.com/curve-mcp",
+  "keywords": [
+    "curve compliance",
+    "marketing reports",
+    "campaign reporting",
+    "google ads",
+    "meta ads",
+    "website analytics",
+    "conversion tracking",
+    "attribution"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://www.curvecompliance.com/curve-mcp",
+  "supportUrl": "https://www.curvecompliance.com/contact",
+  "privacyPolicyUrl": "https://www.curvecompliance.com/privacy",
+  "termsOfServiceUrl": "https://www.curvecompliance.com/terms"
+}

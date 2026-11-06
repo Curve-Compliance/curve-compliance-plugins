@@ -1,0 +1,15 @@
+{
+  "name": "curve-compliance",
+  "description": "Plugins from Curve Compliance.",
+  "owner": {
+    "name": "Curve Compliance",
+    "email": "hey@curvecompliance.com",
+    "url": "https://www.curvecompliance.com"
+  },
+  "plugins": [
+    {
+      "name": "curve-compliance",
+      "source": "./curve-compliance"
+    }
+  ]
+}
