@@ -1,0 +1,27 @@
+{
+  "name": "curve-compliance",
+  "description": "For Curve Compliance customers: ask about your campaigns, website traffic, goals, forms and consent in Curve, with skills for a weekly report, campaign reviews, goal attribution and tracking checks. Answers are totals and breakdowns, never records about a person.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Curve Compliance",
+    "email": "hey@curvecompliance.com"
+  },
+  "homepage": "https://www.curvecompliance.com/curve-mcp",
+  "repository": "https://github.com/Curve-Compliance/curve-compliance-plugins",
+  "keywords": [
+    "curve compliance",
+    "marketing reports",
+    "campaign reporting",
+    "google ads",
+    "meta ads",
+    "website analytics",
+    "conversion tracking",
+    "attribution"
+  ],
+  "logo": "assets/icon.png",
+  "mcpServers": {
+    "curve-compliance": {
+      "url": "https://mcp.curvecompliance.com/mcp"
+    }
+  }
+}
